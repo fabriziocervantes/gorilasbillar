@@ -4,7 +4,7 @@
   // ---------- Trust marquee ----------
   var marqueeItems = [
     '30 años en el mercado',
-    'Fabricación propia',
+    'Fabricación profesional',
     'Hecho sobre pedido',
     'Sede en Hermosillo',
     'Hechas para durar generaciones'
